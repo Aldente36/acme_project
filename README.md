@@ -9,3 +9,4 @@ python manage.py runserver
 
 python manage.py loaddata db.json 
 python manage.py createsuperuser
+python manage.py startapp core
